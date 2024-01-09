@@ -44,23 +44,24 @@ body {
   background-color: var(--white);
   border-radius: 15px;
   height: auto;
-  width: 300px;
+  padding: 15px;
+  width: 325px;
 }
 
 .qr-img {
-  border-radius: 25px;
-  padding: 15px;
+  border-radius: 15px;
+  padding-bottom: 10px;
 }
 
-.p-head {
+.header {
   color: var(--darkblue);
   font-size: 22px;
   font-weight: var(--fontweight-bold);
-  padding: 5px 20px;
+  padding: 5px 15px;
   text-align: center;
 }
 
-.p-desc {
+.description {
   color: var(--grayishblue);
   font-size: 15px;
   padding: 10px 20px 30px 20px;
